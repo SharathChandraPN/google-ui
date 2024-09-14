@@ -160,3 +160,7 @@ footer a:hover {
 .link-2 {
 	padding-right: 18.7px;
 }
+.sign-in-button{
+	border-radius: 18px;
+	background-color: #3a2ae9;
+}
